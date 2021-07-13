@@ -1,0 +1,35 @@
+body{
+    background-color:darkgray;
+}
+h1{
+    color: brown;
+}
+h2{
+    color:darkgreen ;
+}
+.text1{
+    color: gold;
+    font-style: italic;
+}
+.text2{
+    color: darkred;
+    font-weight: bold;
+    font-style: italic;
+}
+.text3{
+    color: darkslategray;
+    font-weight: bold;
+    font-style: italic;
+}
+.text4{
+    color: skyblue;
+}
+li{
+    font-weight: bold;
+}
+dt{
+    color: firebrick;
+}
+hr{
+    border:2px solid maroon;
+}
